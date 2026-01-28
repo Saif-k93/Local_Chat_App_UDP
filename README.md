@@ -32,4 +32,4 @@ cmake --build . --config Release
 
 - Run multiple instances of the app on different devices/computers within the same local network  
 - Enter your username when prompted
-- Start chatting immediately – all connected users will appear automatically  
+- Start chatting immediately – new users broadcast a "Joined" message
