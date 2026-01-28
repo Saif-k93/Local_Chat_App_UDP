@@ -1,7 +1,7 @@
 # Local Chat App UDP
 Console app to chat between users on the same network
 
--- 
+---  
 
 ## 🚀 Installation  
 - Clone the repository  
@@ -26,7 +26,7 @@ cmake ..
 cmake --build . --config Release
 ```
 
---
+---  
 
 ## 🛠️ Usage
 
